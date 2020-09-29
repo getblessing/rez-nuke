@@ -11,6 +11,9 @@ _data = {
     "icon": "{root}/resources/nuke.ico"
 }
 
+requires = [
+    "!PySide2",
+]
 
 tools = [
     "nukex",
